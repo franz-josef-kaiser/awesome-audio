@@ -7,7 +7,7 @@ A curated list of things related to open source audio listening.
 ## Contents
 * Platforms/ OS
 ### Platforms/ Operating Systems
-* [Roon Player](https://roonlabs.com/)
+* [Roon Player](https://roonlabs.com/) (Commercial option only)
 * [RuneAudio](https://www.runeaudio.com/)
 * [Daphile](https://www.daphile.com/) server & player OS
 * [Moode Audio Player](http://moodeaudio.org/)
